@@ -37,9 +37,7 @@ body * {
 
 #container {
     width: 100%;
-    max-width: 588px;
-    border: 1px solid rgba(10, 101, 143);
-    margin: auto;
+    max-width: 588px;margin: auto;
     padding: 0 24px;
 }
 
